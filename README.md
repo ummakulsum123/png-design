@@ -2,7 +2,7 @@ Custom Pseudorandom Number Generator (PRNG) Analysis :
 Table of Contents
 Introduction
 
-Algorithm Overview
+ Algorithm Overview :
 X 
 n+1
 ​
@@ -10,7 +10,8 @@ n+1
 n
 ​
  +c)modm
-Implementation Details
+ 
+Implementation Details :
 
 Visual Analysis
 
