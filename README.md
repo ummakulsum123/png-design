@@ -3,7 +3,13 @@ Table of Contents
 Introduction
 
 Algorithm Overview
-
+X 
+n+1
+​
+ =(a⋅X 
+n
+​
+ +c)modm
 Implementation Details
 
 Visual Analysis
